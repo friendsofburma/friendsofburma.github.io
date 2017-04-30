@@ -1,0 +1,58 @@
+<div class="navbar-wrapper">
+    <div class="container">
+        <div class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Friends of Burma</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown {% if page.link == 'about' %}active{% endif %}">
+                            <a href="/about" class="dropdown-toggle" data-toggle="dropdown">
+                                Who we are<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/about">About us</a></li>
+                                <li><a href="/contact">Contact us</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown {% if page.link == 'ministries' %}active{% endif %}">
+                            <a href="/ministries" class="dropdown-toggle" data-toggle="dropdown">
+                                Ministries<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="https://drive.google.com/file/d/0B7ZEOyKXVhn1TU5TVzZxY0RNbEk/view?usp=sharing" target="_blank">Overview</a></li>
+                                <li><a href="/ministries">Who we support</a></li>
+                                <li><a href="/testimonials">Testimonials</a></li>
+                            </ul>
+                        </li>
+                        <li {% if page.link == 'newsletters' %}class="active"{% endif %}>
+                            <a href="/newsletters">Newsletters</a>
+                        </li>
+                        <li {% if page.link == 'annualreports' %}class="active"{% endif %}>
+                            <a href="/annualreports">Annual Reports</a>
+                        </li>
+                        <li {% if page.link == 'resources' %}class="active"{% endif %}>
+                            <a href="/resources">Resources</a>
+                        </li>
+                        <li {% if page.link == 'donate' %}class="active"{% endif %}>
+                            <a href="/donate">Donate</a>
+                        </li>
+                        <li>
+                            <a href="http://blog.friendsofburma.org" target="_blank"><img alt="Blog" height="16" src="/static/img/icons/blog.png"/></a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/Friends-of-Burma-Inc-533976606619004/" target="_blank">
+                                <img alt="Facebook" height="16" src="/static/img/icons/facebook.png"/>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

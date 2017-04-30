@@ -1,0 +1,318 @@
+@font-face {
+  font-family: 'Padauk';
+  src: url('/assets/fonts/Padauk/Padauk.eot');
+  src: url('/assets/fonts/Padauk/Padauk.woff') format('woff'),
+       url('/assets/fonts/Padauk/Padauk.ttf') format('truetype'),
+       url('/assets/fonts/Padauk/Padauk.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+html, body {
+  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif, Padauk;
+  height: 100%;
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif, Padauk;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif, Padauk;
+}
+
+code,
+pre {
+  font-family: Monaco, Menlo, Consolas, "Courier New", monospace, Padauk;
+}
+
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+
+.navbar-wrapper {
+  position: relative;
+  z-index: 15;
+}
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+
+.carousel {
+  margin-bottom: 30px;
+  /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+  margin-top: -90px;
+}
+
+.carousel-control {
+  height: 180px;
+  //margin-top: 140px;
+  top: 40%;
+  font-size: 90px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+  background-color: transparent;
+  border: 0;
+  z-index: 10;
+}
+
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  background-color: transparent;
+  max-width: 550px;
+  bottom: 30%;
+  padding: 0 20px;
+  text-align: left;
+  h1, .lead {
+    margin: 0;
+    line-height: 1.25;
+    color: #fff;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+  }
+  .btn {
+    margin-top: 10px;
+  }
+}
+
+.carousel-indicators {
+  bottom:25%;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel {
+  .item {
+    /*height: 500px;*/
+    height: auto;
+    width: 100%;
+
+    img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-width: 100%;
+      /*height: 500px;*/
+      height: 100%; /* for small screen */
+      width: 100%;
+    }
+  }
+}
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Pad the edges of the mobile views a bit */
+
+.marketing {
+  padding-left: 15px;
+  padding-right: 15px;
+  .col-lg-4 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  h2 {
+    font-weight: normal;
+  }
+  .col-lg-4 p {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
+/* Center align the text within the three columns below the carousel */
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 80px 0;
+  /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+.container {
+  width: auto;
+  max-width: 1024px;
+  padding: 0 15px;
+
+  .credit {
+    margin: 20px 0;
+  }
+}
+
+/* Youtube Video container */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px; height: 0; overflow: hidden;
+
+  iframe, object, embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+  /* Remove the edge padding needed for mobile */
+  .marketing {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /* Navbar positioning foo */
+  .navbar-wrapper {
+    margin-top: 20px;
+    .navbar {
+      border-radius: 4px;
+    }
+  }
+  .featurette-heading {
+    font-size: 50px;
+  }
+
+  /* The navbar becomes detached from the top, so we round the corners */
+  /* Bump up size of carousel content */
+  .carousel {
+    margin-left: -20px;
+    margin-right: -20px;
+    .container {}
+    .item {
+      height: 500px;
+      width:100%;
+      img {
+        height:auto; /* for big screen */
+        width:100%;
+      }
+    }
+
+  }
+  .carousel-caption {
+    width: 65%;
+    padding: 0 70px;
+    margin-top: 10px;
+    //bottom:50%;
+    h1 {
+      font-size: 30px;
+    }
+    .lead, .btn {
+      font-size: 18px;
+    }
+  }
+}
+
+@media (min-width: 992px) {
+  .container.navbar-wrapper {
+    margin-bottom: 0;
+    width: auto;
+  }
+  .navbar-inner {
+    border-radius: 0;
+    margin: -20px 0;
+  }
+  .carousel {
+    .item {
+      /*height: 500px;*/
+      height: 100%;
+      width: 100%;
+    }
+    img {
+      width: 100%;
+      /*height: 500px;*/
+      /*height: 100%;*/
+      height:auto;
+    }
+  }
+  .featurette {
+    height: auto;
+    padding: 0;
+  }
+  .featurette-heading {
+    margin-top: 120px;
+  }
+  .featurette-image {
+    &.pull-left, &.pull-right {
+      display: block;
+      float: none;
+      max-width: 40%;
+      margin: 0 auto 20px;
+    }
+  }
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+  /* The navbar becomes detached from the top, so we round the corners */
+  /* Bump up size of carousel content */
+  .carousel {
+    /*margin-left: -20px;*/
+    /*margin-right: -20px;*/
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1024px;
+    .container {}
+    .item, img {
+      height: 300px;
+    }
+  }
+  .carousel-caption {
+    width: 90%;
+    padding: 0 20px;
+    margin-top: 5px;
+    h1 {
+      font-size: 14px;
+    }
+    p {
+      font-size: 11px;
+    }
+    .lead, .btn {
+      font-size: 11px;
+    }
+  }
+}
