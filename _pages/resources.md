@@ -12,7 +12,7 @@ permalink: /resources/
 - [A Boy of Burma](https://drive.google.com/file/d/0B1ACrvPjNSgwUWZxUHB4T09UTUU/view?usp=sharing)
 - [Where there is no dentist by Murray Dickson (in Burmese)](https://drive.google.com/file/d/0B6twxZ-WcgVBc18yZDllY3EtNVE/edit?usp=sharing)
 - [The Karen Reader](https://drive.google.com/file/d/0B6twxZ-WcgVBNXpVaUhMekY4dUU/view?usp=sharing)
-- [Possibilites II](https://drive.google.com/file/d/0B7ZEOyKXVhn1cHB3cDdwT0QyY1Y3bWpoSTcyMWwzWUxyTDFz/view?usp=sharing)
+- [Possibilites II](/static/docs/Possibilities_II.pdf)
 - [Pastoral Counseling Class book in Karen and English](/static/docs/pastoral_counseling.pdf)
 
 
