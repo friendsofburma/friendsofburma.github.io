@@ -8,10 +8,10 @@ permalink: /resources/
 
 ## Books
 
-- [The Last American Baptist Missionaries to Burma (1946-1966)](https://drive.google.com/file/d/0B6twxZ-WcgVBWGtrMmtTV0NWRFU/edit?usp=sharing) by Neil Sowards and May Pearl Cartee
-- [A Boy of Burma](https://drive.google.com/file/d/0B1ACrvPjNSgwUWZxUHB4T09UTUU/view?usp=sharing)
+- [The Last American Baptist Missionaries to Burma (1946-1966)](/static/docs/The_Last_American_Baptist_Missionaries_to_Burma_1946-1966.pdf) by Neil Sowards and May Pearl Cartee
+- [A Boy of Burma](/static/docs/A_Boy_of_Burma.pdf)
 - [Where there is no dentist by Murray Dickson (in Burmese)](https://drive.google.com/file/d/0B6twxZ-WcgVBc18yZDllY3EtNVE/edit?usp=sharing)
-- [The Karen Reader](https://drive.google.com/file/d/0B6twxZ-WcgVBNXpVaUhMekY4dUU/view?usp=sharing)
+- [The Karen Reader](/static/docs/The_Karen_Reader.pdf)
 - [Possibilites II](/static/docs/Possibilities_II.pdf)
 - [Pastoral Counseling Class book in Karen and English](/static/docs/pastoral_counseling.pdf)
 
