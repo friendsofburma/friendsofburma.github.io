@@ -9,6 +9,7 @@ permalink: /newsletters/
 
 ## Newsletters
 
+-   [2021 Fall](/static/docs/newsletter_fall_2021.pdf)
 -   [2021 Spring](http://news.friendsofburma.org/2021/04/friends-of-burma-inc-newsletter-spring.html)
 -   [2020 Fall](http://news.friendsofburma.org/2020/09/friends-of-burma-inc-newsletter-fall.html)
 -   [2020 Spring](http://news.friendsofburma.org/2020/04/friends-of-burma-inc-newsletter-spring.html)
