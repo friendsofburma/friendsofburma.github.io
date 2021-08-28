@@ -16,7 +16,7 @@ Please make checks payable to **Friends of Burma, Inc. a 501 (c)(3) non profit o
     Tel: (260) 745-3658
     Email: president at friendsofburma dot org
 
-All work in the U.S. is done by volunteers. Our overhead and administrative costs are **.5%** or **50 cents on each $100** we receive and that is **covered by one donor so 100% of each donation goes to help the people of Burma**.
+All work in the U.S. is done by volunteers. Our overhead and administrative costs are **0.5%** or **50 cents on each $100** we receive and that is **covered by one donor so 100% of each donation goes to help the people of Burma**.
 
 
 ## Donate online via PayPal
