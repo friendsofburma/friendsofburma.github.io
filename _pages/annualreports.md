@@ -7,6 +7,7 @@ permalink: /annualreports/
 
 ## Annual Reports
 
+- [2021](http://news.friendsofburma.org/2022/01/friends-of-burma-annual-report-2021.html)
 - [2020](http://news.friendsofburma.org/2021/01/friends-of-burma-annual-report-2020.html)
 - [2019](http://news.friendsofburma.org/2020/01/friends-of-burma-annual-report-2019.html)
 - [2018](http://news.friendsofburma.org/2019/01/friends-of-burma-annual-report-2018.html)
