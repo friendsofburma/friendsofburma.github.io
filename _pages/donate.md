@@ -21,7 +21,7 @@ All work in the U.S. is done by volunteers. Our overhead and administrative cost
 
 ## Donate online via PayPal
 
-If you want to donate to a specific cause, please make sure you write down instructions in the notes.
+If you want to donate to a specific cause, please make sure you write down instructions in the notes. Please note that there is a processing fees, which we have to cover, if you use PayPal. If you want to use Zelle instead, please contact Neil and Diana at president@friendsofburma.org for more information.
 
 <p>
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
