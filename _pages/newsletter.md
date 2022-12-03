@@ -66,8 +66,9 @@ We have [a blog](http://blog.friendsofburma.org), where we post updates occasion
 
 Giving \$50 for Christmas to a needy person in Burma.
 
-- [Christmas Gift Response 2019](https://docs.google.com/document/d/1qv1u6RICahjZyoD0glVRTPtmlwbTnihRcLVY3wV7u3k/edit?usp=sharing)
+- [Christmas Gift Response 2019](/static/docs/christmas_gift/Christmas_Gift_Report_2019.pdf)
 - [Christmas Gift Response 2021](/static/docs/christmas_gift/Christmas_Gift_Report_2021.pdf)
+- [Christmas Gift Response 2022](/static/docs/christmas_gift/Christmas_Gift_Report_2022.pdf)
 
 
 
