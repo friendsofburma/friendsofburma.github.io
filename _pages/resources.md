@@ -22,6 +22,7 @@ permalink: /resources/
 - [Gideon Report by M. Zau Yaw](https://docs.google.com/document/d/1jq6nWhjHFIBThu7r-hrCssuQp5WnonluUJ5xtLOTiJ0/edit?usp=sharing)
 - [Karens For Christ in AD 2000 Project](https://docs.google.com/document/d/1UNyAqnOG0auFqtQvFa6io4Va-uyzcF7wjUGudlxkTrA/edit?usp=sharing)
 - [Games Played In Mae La Refugee CAmp by Neil Sowards (Illustrated by Min Naing Lin)](/static/docs/GamesPlayedInMaeLaRefugeeCamp.pdf)
+- [Food for Soul (A Place for Christian Sharing)](https://docs.google.com/document/d/1ceZeBfFqHff0zzn_NWfJ_uWT4kBiuzFQ-EAP8AooY5g/edit?usp=sharing).
 
 
 ## Videos
