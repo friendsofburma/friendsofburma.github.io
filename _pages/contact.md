@@ -11,8 +11,8 @@ permalink: /contact/
     Friends of Burma, Inc.
     548 Home Avenue
     Fort Wayne, IN 46807
-    Tel:(260) 745-3658
-    Email: president at friendsofburma.org
+    (260) 745-3658
+    neildianasowards at gmail.com, president at friendsofburma.org
 
 
 ## Blog and Social media
