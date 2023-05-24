@@ -9,6 +9,7 @@ permalink: /newsletters/
 
 ## Newsletters
 
+-   [2023 Spring](/static/docs/newsletter_spring_2023.pdf)
 -   [2022 Fall](/static/docs/newsletter_fall_2022.pdf)
 -   [2022 Spring](/static/docs/newsletter_spring_2022.pdf)
 -   [2021 Fall](/static/docs/newsletter_fall_2021.pdf)
