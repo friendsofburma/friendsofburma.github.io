@@ -25,6 +25,15 @@ permalink: /resources/
 - [When God Was Most Real To Me (Personal Sharing)](https://docs.google.com/document/d/1ceZeBfFqHff0zzn_NWfJ_uWT4kBiuzFQ-EAP8AooY5g/edit?usp=sharing).
 
 
+## Books for sale
+
+Please contact Neil Sowards at president@friendsofburma.org.
+
+- Life in Burma, by Neil Sowards, illustrated by Mehm Than Oo, 218 pages, $24.00 postpaid.
+- Games Played in Mae La Refugee Camp by Neil Sowards, illustrated by Min Naing Lin, English and Karen, 28 pages. $14 postpaid.
+- The Last American Baptist Missionaries to Burma 1946-1966, by Neil Sowards and May Pearl Cartee, 106 pages. $18.00 postpaid.
+
+
 ## Videos
 
 - [Videos about Burma](https://docs.google.com/document/d/13AKbEgBqYgtJt9kztGUx63SP-Ip2sY8Ej3ewdKi3y4E/edit?usp=sharing)
