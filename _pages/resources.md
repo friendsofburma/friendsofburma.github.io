@@ -27,14 +27,11 @@ permalink: /resources/
 
 ## Books for sale
 
-Please contact Neil Sowards at president@friendsofburma.org.
+Books Related to Burma. These are from a donor’s estate; sale goes to Friends of Burma. Please contact Neil Sowards at president@friendsofburma.org.
 
 - Life in Burma, by Neil Sowards, illustrated by Mehm Than Oo, 218 pages, $24.00 postpaid.
 - Games Played in Mae La Refugee Camp by Neil Sowards, illustrated by Min Naing Lin, English and Karen, 28 pages. $14 postpaid.
 - The Last American Baptist Missionaries to Burma 1946-1966, by Neil Sowards and May Pearl Cartee, 106 pages. $18.00 postpaid.
-
-Books Related to Burma. These are from a donor’s estate; sale goes to Friends of Burma. Please contact Neil Sowards at president@friendsofburma.org.
-
 - A Century of Growth, The Kachin Baptist Church of Burma, Herman G. Tegenfeldt,  513 pages, Signed by author, Postpaid $30.00
 - The Vanishing Tribes of Burma, Richard K. Diran, 240 pages. Originally $45.  Beautiful coffee table type book.  Postpaid $15.00
 
