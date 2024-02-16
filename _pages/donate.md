@@ -34,9 +34,9 @@ If you want to donate to a specific cause, please make sure you write down instr
 
 
 
-## Amazon Smile
+[comment]: <> ## Amazon Smile
 
-When you shop on [Amazon Smile](http://smile.amazon.com/ch/20-5572384), the AmazonSmile foundation will donate a small percentage of the price of eligible purchases to your choice of charitable organizations. Friends of Burma, Inc. is registerd on AmazonSmile. You can use this link to choose FOB, start shopping and donate without costing you a dime: [http://smile.amazon.com/ch/20-5572384](http://smile.amazon.com/ch/20-5572384).
+[comment]: <> When you shop on [Amazon Smile](http://smile.amazon.com/ch/20-5572384), the AmazonSmile foundation will donate a small percentage of the price of eligible purchases to your choice of charitable organizations. Friends of Burma, Inc. is registerd on AmazonSmile. You can use this link to choose FOB, start shopping and donate without costing you a dime: [http://smile.amazon.com/ch/20-5572384](http://smile.amazon.com/ch/20-5572384).
 
 
 
