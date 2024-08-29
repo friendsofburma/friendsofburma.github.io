@@ -12,13 +12,8 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="dropdown {% if page.link == 'about' %}active{% endif %}">
-                            <a href="/about" class="dropdown-toggle" data-toggle="dropdown">
-                                Who we are<b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="/about">About us</a></li>
-                                <li><a href="/contact">Contact us</a></li>
-                            </ul>
+                        <li {% if page.link == 'about' %}class="active"{% endif %}>
+                            <a href="/about">About</a>
                         </li>
                         <li class="dropdown {% if page.link == 'ministries' %}active{% endif %}">
                             <a href="/ministries" class="dropdown-toggle" data-toggle="dropdown">
@@ -43,8 +38,8 @@
                         <li {% if page.link == 'donate' %}class="active"{% endif %}>
                             <a href="/donate">Donate</a>
                         </li>
-                        <li>
-                            <a href="http://blog.friendsofburma.org">Blog</a>
+                        <li {% if page.link == 'contact' %}class="active"{% endif %}>
+                            <a href="/contact">Contact</a>
                         </li>
                         <li>
                             <a href="https://www.facebook.com/Friends-of-Burma-Inc-533976606619004/">
