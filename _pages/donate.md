@@ -19,17 +19,9 @@ All work in the U.S. is done by volunteers. Our overhead and administrative cost
 
 ## Donate online via PayPal
 
-If you want to donate to a specific cause, please make sure you write down instructions in the notes. Please note that there is a processing fee, which we have to cover, if you use PayPal. If you want to use Zelle instead, please contact Neil and Diana at neildianasowards@gmail.com for more information.
+If you want to donate to a specific cause, please make sure you write down instructions in the notes. If you want to use Zelle instead, please contact Neil and Diana at neildianasowards@gmail.com for more information.
 
-<p>
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="8Z7BX3AVUZAL6">
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-  </form>
-</p>
-
+<a href="https://www.paypal.com/us/fundraiser/charity/6725"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal"></a>
 
 
 [comment]: <> ## Amazon Smile
