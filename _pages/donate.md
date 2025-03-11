@@ -19,9 +19,14 @@ All work in the U.S. is done by volunteers. Our overhead and administrative cost
 
 ## Donate online via PayPal
 
-If you want to donate to a specific cause, please make sure you write down instructions in the notes. If you want to use Zelle instead, please contact Neil and Diana at neildianasowards@gmail.com for more information.
+If you want to donate to a specific cause, please email us your instructions. 
 
 <a href="https://www.paypal.com/us/fundraiser/charity/6725"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal"></a>
+
+
+## Donate via Zelle
+
+Zelle account: neildianasowards@gmail.com
 
 
 [comment]: <> ## Amazon Smile
