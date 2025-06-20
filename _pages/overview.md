@@ -5,5 +5,7 @@ link: overview
 permalink: /overview/
 ---
 
-[Ministry Overview](/static/docs/FOBMinistry.pdf) (PDF)
- 
+## Ministory Overview
+
+[Download PDF](/static/docs/FOBMinistry.pdf)
+
