@@ -6,7 +6,7 @@ permalink: /donate/
 ---
 
 
-## Donate by snail mail
+## Donate by mail
 
 Please make checks payable to **Friends of Burma, Inc. a 501 (c)(3) non profit organization**. All donations are tax-deductible.
 
@@ -16,13 +16,13 @@ Please make checks payable to **Friends of Burma, Inc. a 501 (c)(3) non profit o
 
 All work in the U.S. is done by volunteers. Our overhead and administrative costs are **0.5%** or **50 cents on each $100** we receive and that is **covered by one donor so 100% of each donation goes to help the people of Burma**.
 
-## Donate via Zelle
+## Donate by Zelle
 
 Zelle account: neildianasowards@gmail.com
 
-## Donate online via PayPal
+## Donate online by PayPal
 
-If you want to donate to a specific cause, please email us your instructions. 
+If you want to donate to a specific cause, please email us your instructions.
 
 <a href="https://www.paypal.com/us/fundraiser/charity/6725"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal"></a>
 
