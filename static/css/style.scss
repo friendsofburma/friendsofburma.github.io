@@ -203,9 +203,21 @@ pre {
 }
 
 .highlight-message {
-  background-color: lightgreen;
+  background-color: #b8e0c6;
   border-radius: 10px; /* Adds rounded corners */
   padding: 10px 10px;
+}
+
+.section-div {
+  border: 2px solid #b8e0c6;
+  border-radius: 5px;
+}
+
+.my-jumbotron {
+  background-color: #b8e0c6;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  text-align: center;
 }
 
 /* RESPONSIVE CSS
