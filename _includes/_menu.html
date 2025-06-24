@@ -24,11 +24,13 @@
                                 <li><a href="/testimonials">Testimonials</a></li>
                             </ul>
                         </li>
-                        <li {% if page.link == 'newsletters' %}class="active"{% endif %}>
-                            <a href="/newsletters">Newsletters</a>
-                        </li>
-                        <li {% if page.link == 'annualreports' %}class="active"{% endif %}>
-                            <a href="/annualreports">Annual Reports</a>
+                        <li class="dropdown {% if page.link == 'newsletters' %}active{% endif %}">
+                            <a href="/newsletters" class="dropdown-toggle" data-toggle="dropdown">
+                                Newsletters<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/newsletters">Newsletters</a></li>
+                                <li><a href="/annualreports">Annual Reports</a></li>
+                            </ul>
                         </li>
                         <li {% if page.link == 'resources' %}class="active"{% endif %}>
                             <a href="/resources">Resources</a>
@@ -36,16 +38,18 @@
                         <li {% if page.link == 'donate' %}class="active"{% endif %}>
                             <a href="/donate">Donate</a>
                         </li>
-                        <li {% if page.link == 'contact' %}class="active"{% endif %}>
-                            <a href="/contact">Contact</a>
-                        </li>
-                        <li>
-                            <a href="http://blog.friendsofburma.org"><i class="fa-solid fa-blog"></i></a>
-                        </li>
-                        <li>
-                            <a href="https://www.facebook.com/Friends-of-Burma-Inc-533976606619004/">
-                                <i class="fa-brands fa-facebook-f"></i>
-                            </a>
+                        <li class="dropdown {% if page.link == 'contact' %}class="active"{% endif %}">
+                            <a href="/contact" class="dropdown-toggle" data-toggle="dropdown">
+                                Contact<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/contact">Contact</a></li>
+                                <li><a href="http://blog.friendsofburma.org">Blog &nbsp; <i class="fa-solid fa-blog"></i></a></li>
+                                <li>
+                                    <a href="https://www.facebook.com/Friends-of-Burma-Inc-533976606619004/">
+                                        Facebook &nbsp; <i class="fa-brands fa-facebook-f"></i>
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
