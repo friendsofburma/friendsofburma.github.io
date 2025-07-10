@@ -33,6 +33,8 @@ Books Related to Burma. These are from a donor’s estate; sale goes to Friends 
 - A Century of Growth, The Kachin Baptist Church of Burma, Herman G. Tegenfeldt,  513 pages, Signed by author, Postpaid $30.00
 - The Vanishing Tribes of Burma, Richard K. Diran, 240 pages. Originally $45.  Beautiful coffee table type book.  Postpaid $15.00
 
+## Burmese Artifacts for sale
+- [https://arts.friendsofburma.org](https://arts.friendsofburma.org)
 
 ## Videos
 
