@@ -12,7 +12,7 @@ permalink: /contact/
     548 Home Avenue
     Fort Wayne, IN 46807
     (260) 745-3658
-    neildianasowards at gmail.com, president at friendsofburma.org
+    neildianasowards@gmail.com, president@friendsofburma.org
 
 
 ## Blog and Social media
