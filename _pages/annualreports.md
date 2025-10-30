@@ -32,6 +32,7 @@ permalink: /annualreports/
 
 ## Form 990
 
+- [2024](/static/docs/f990_2024.pdf)
 - [2023](/static/docs/f990_2023.pdf)
 - [2020](/static/docs/f990_2020.pdf)
 - [2019](/static/docs/f990_2019.pdf)
