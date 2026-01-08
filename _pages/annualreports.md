@@ -7,6 +7,7 @@ permalink: /annualreports/
 
 ## Annual Reports
 
+- [2025](/static/docs/annual_report_2025.pdf)
 - [2024](/static/docs/annual_report_2024.pdf)
 - [2023](/static/docs/annual_report_2023.pdf)
 - [2022](http://news.friendsofburma.org/2023/01/friends-of-burma-annual-report-2022.html)
