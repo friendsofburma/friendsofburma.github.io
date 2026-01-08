@@ -18,7 +18,7 @@ permalink: /contact/
 ## Blog and Social media
 
 - [Blog](http://blog.friendsofburma.org)
-- [E-Newsletter](http://news.friendsofburma.org)
+- [Subscribe to our newsletter](/subscribe/)
 - [Facebook](https://www.facebook.com/pages/Friends-of-Burma-Inc/533976606619004)
 
 
