@@ -60,7 +60,7 @@ permalink: /newsletters/
 
 ## E-Newsletter
 
-If you would like to receive our e-newsletter via emails, you can [subscribe here](http://news.friendsofburma.org/2016/05/subscribe-to-our-mailing-list.html). You can also read past newsletters [there](http://news.friendsofburma.org/).
+If you would like to receive our newsletters via emails, you can [subscribe here](/subscribe/).
 
 
 ## Blog
@@ -75,6 +75,5 @@ Giving \$50 for Christmas to a needy person in Burma.
 - [Christmas Gift Response 2019](/static/docs/christmas_gift/Christmas_Gift_Report_2019.pdf)
 - [Christmas Gift Response 2021](/static/docs/christmas_gift/Christmas_Gift_Report_2021.pdf)
 - [Christmas Gift Response 2022](/static/docs/christmas_gift/Christmas_Gift_Report_2022.pdf)
-
 
 
