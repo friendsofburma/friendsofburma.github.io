@@ -22,7 +22,7 @@ Zelle account: neildianasowards@gmail.com
 
 ## Donate online by PayPal
 
-If you want to donate to a specific cause, please email us your instructions.
+Please note that we receive PayPal distributions only at the end of each month. If you want to donate to a specific cause, please email us your instructions at president@friendsofburma.org
 
 <a href="https://www.paypal.com/us/fundraiser/charity/6725"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal"></a>
 
