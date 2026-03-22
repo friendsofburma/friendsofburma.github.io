@@ -314,6 +314,64 @@ pre {
   margin-bottom: 0;
 }
 
+.testimonials-page-title {
+  background: linear-gradient(135deg, #2d5f52 0%, #4a8a78 100%);
+  color: #fff;
+  font-size: 2.4em;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 10px;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.16), 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 18px 20px;
+  margin: 10px 0 18px;
+}
+
+.testimonials-intro {
+  background-color: #e6f2ee;
+  border-left: 6px solid #7fb9a6;
+}
+
+.testimonials-subtitle {
+  font-size: 1.08em;
+  font-weight: 500;
+  line-height: 1.6;
+  color: #1f3f36;
+  margin-bottom: 0;
+}
+
+.testimonials-page .about-section-card .featurette-image {
+  margin: 0 auto 12px;
+  border-radius: 6px;
+}
+
+.testimonials-page .testimony-subheading {
+  color: #1f3f36;
+  font-weight: 700;
+  margin-top: 22px;
+  margin-bottom: 10px;
+}
+
+.howwehelp-page .about-section-card h2 {
+  display: block;
+  background-color: #dcefe8;
+  color: #1f3f36;
+  font-size: 1.55em;
+  font-weight: 700;
+  border-left: 5px solid #7fb9a6;
+  border-bottom: 2px solid #7fb9a6;
+  border-radius: 8px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  padding: 10px 14px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.howwehelp-page .about-section-card p {
+  margin-bottom: 12px;
+}
+
 .latest-posts-grid {
   display: block;
 }

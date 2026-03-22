@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Friends of Burma, Inc.
-link: resources
+link: publications
 permalink: /resources/
 ---
 
