@@ -300,6 +300,20 @@ pre {
   margin-top: 0;
 }
 
+.about-section-card .ministries-cta {
+  text-align: center;
+}
+
+.ministry-overview-page .img-responsive {
+  max-width: 860px;
+  margin: 0 auto 12px;
+  border-radius: 6px;
+}
+
+.ministry-overview-page .img-responsive:last-child {
+  margin-bottom: 0;
+}
+
 .latest-posts-grid {
   display: block;
 }
