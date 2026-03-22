@@ -59,6 +59,57 @@ pre {
   z-index: 15;
 }
 
+.navbar-inverse {
+  background-color: #22313a;
+  border-color: #1c2a32;
+}
+
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-nav > li > a {
+  color: #eef7f5;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #ffffff;
+  background-color: #2f6f62;
+}
+
+.navbar-inverse .navbar-toggle {
+  border-color: #7fb9a6;
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+  background-color: #2f6f62;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+  background-color: #2f6f62;
+  color: #ffffff;
+}
+
+.navbar-inverse .dropdown-menu {
+  background-color: #1c2a32;
+  border-color: #2f6f62;
+}
+
+.navbar-inverse .dropdown-menu > li > a {
+  color: #e6f3ef;
+}
+
+.navbar-inverse .dropdown-menu > li > a:hover,
+.navbar-inverse .dropdown-menu > li > a:focus {
+  color: #ffffff;
+  background-color: #3c7f72;
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -215,8 +266,64 @@ pre {
 
 /* Set the fixed height of the footer here */
 #footer {
-  /*height: 60px;*/
-  background-color: #f5f5f5;
+  background-color: #1a2730;
+  border-top: 3px solid #8bc5b5;
+  padding: 40px 0 20px;
+  margin-top: 50px;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.footer-nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-nav li {
+  margin-bottom: 8px;
+}
+
+.footer-nav a {
+  color: #dceee8;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-nav a:hover,
+.footer-nav a:focus {
+  color: #8bc5b5;
+  text-decoration: underline;
+}
+
+.footer-social a {
+  color: #8bc5b5;
+  margin-right: 15px;
+  font-size: 1.2em;
+}
+
+.footer-social a:hover,
+.footer-social a:focus {
+  color: #ffffff;
+}
+
+.footer-address {
+  margin-top: 20px;
+}
+
+.footer-address p {
+  color: #b7cdd0;
+  font-size: 0.9em;
+  line-height: 1.4;
+  margin: 0;
+}
+
+.credit {
+  color: #b7cdd0 !important;
 }
 
 .highlight-message {
