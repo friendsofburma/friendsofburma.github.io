@@ -423,6 +423,22 @@ pre {
   margin-bottom: 0;
 }
 
+.howwehelp-videos-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 16px;
+  margin-top: 14px;
+}
+
+.howwehelp-videos-grid .about-section-card {
+  margin: 0;
+  height: 100%;
+}
+
+.howwehelp-videos-grid .about-section-card .video-container {
+  margin-bottom: 0;
+}
+
 .about-section-heading {
   display: block;
   background-color: #dcefe8;
