@@ -385,6 +385,44 @@ pre {
   margin-bottom: 15px;
 }
 
+.board-members-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  margin-top: 14px;
+}
+
+.board-members-grid .about-section-card {
+  margin: 0;
+  height: 100%;
+  padding: 18px 14px;
+}
+
+.board-members-grid .about-section-card [class^="col-"],
+.board-members-grid .about-section-card [class*=" col-"] {
+  float: none;
+  width: 100%;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.board-members-grid .about-section-card .featurette-image {
+  width: 100%;
+  max-width: 180px;
+  margin: 0 auto 12px;
+  border-radius: 6px;
+}
+
+.board-members-grid .about-section-card h4 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.board-members-grid .about-section-card p {
+  margin-bottom: 0;
+}
+
 .about-section-heading {
   display: block;
   background-color: #dcefe8;
